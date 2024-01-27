@@ -1,6 +1,5 @@
-# Dermatological-Manifestation-SIH
+# Dermatological-Manifestation
 
-This project is being developed by our team as part of the Smart BU internal hackathon being conducted at our university to shortlist projects for the Smart India Hackathon 2023. The project addresses problem statement number 1344: AI-based tool for preliminary diagnosis of Dermatological manifestations.
 
 ## Proposed Approach
 
